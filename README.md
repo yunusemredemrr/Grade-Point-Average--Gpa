@@ -1,6 +1,6 @@
-# gpa
+# GPA
 
-A new Flutter application.
+It is a Grade-Point-Average app.
 
 ## Getting Started
 
