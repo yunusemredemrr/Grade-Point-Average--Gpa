@@ -2,15 +2,6 @@
 
 It is a Grade-Point-Average app.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1644750821](https://user-images.githubusercontent.com/50717631/153751405-bf945805-98b5-4e33-a462-916621e372a3.png)
+![Screenshot_1644750953](https://user-images.githubusercontent.com/50717631/153751406-b92f4428-3c99-48ee-8e36-b6379c9a6dc6.png)
+![gpa](https://user-images.githubusercontent.com/50717631/153751410-77bf0aef-ee32-416d-a4b1-fa6e4b577300.gif)
