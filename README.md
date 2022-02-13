@@ -2,7 +2,6 @@
 
 It is a Grade-Point-Average app.
 
-![gpa](https://user-images.githubusercontent.com/50717631/153751410-77bf0aef-ee32-416d-a4b1-fa6e4b577300.gif)
 <img src="https://user-images.githubusercontent.com/50717631/153751419-d749e81a-bff4-4373-8588-f504eff1a16e.png" width="600" height="300">
 <img src="https://user-images.githubusercontent.com/50717631/153751410-77bf0aef-ee32-416d-a4b1-fa6e4b577300.gif" width="600" height="300">
 
